@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Service Kits",
+    "image": "service-kits.png",
+    "order": 1
+  },
+  {
+    "name": "Brake Discs & Pads",
+    "image": "brake-discs-pads.png",
+    "order": 2
+  },
+  {
+    "name": "Suspension",
+    "image": "suspension.png",
+    "order": 3
+  },
+  {
+    "name": "Engine Parts",
+    "image": "engine-parts.png",
+    "order": 4
+  },
+  {
+    "name": "Oil & Lubricants",
+    "image": "oil.png",
+    "order": 5
+  },
+  {
+    "name": "Tires & Wheels",
+    "image": "tires.png",
+    "order": 6
+  },
+  {
+    "name": "Steering",
+    "image": "steering.png",
+    "order": 7
+  },
+  {
+    "name": "Batteries",
+    "image": "batteries.png",
+    "order": 8
+  }
+]

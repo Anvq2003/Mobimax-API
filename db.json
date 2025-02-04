@@ -1,0 +1,781 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bộ lọc dầu bổ sung FRAM",
+      "image": "a1.jpg",
+      "price": 600000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 4,
+      "view": 100,
+      "sold": 28,
+      "amount": 45,
+      "createdAt": "2015-01-01",
+      "categoryId": 1,
+      "brandId": 1
+    },
+    {
+      "id": 2,
+      "name": "Bộ lọc dầu PH7317",
+      "image": "a2.jpg",
+      "price": 1200000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 5,
+      "view": 100,
+      "sold": 11,
+      "amount": 49,
+      "createdAt": "2019-01-01",
+      "categoryId": 1,
+      "brandId": 2
+    },
+    {
+      "id": 3,
+      "name": "Bộ lọc dầu bảo vệ bổ sung FRAM, PH7317",
+      "image": "a3.jpg",
+      "price": 3000000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 5,
+      "view": 100,
+      "sold": 10,
+      "amount": 50,
+      "createdAt": "2019-01-01",
+      "categoryId": 1,
+      "brandId": 3
+    },
+    {
+      "id": 4,
+      "name": "Bộ lọc không khí FRAM Fresh",
+      "image": "a4.jpg",
+      "promotion": 34500000,
+      "price": 32000000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 3,
+      "view": 23,
+      "sold": 10,
+      "amount": 50,
+      "createdAt": "2026-01-01",
+      "categoryId": 1,
+      "brandId": 4
+    },
+    {
+      "id": 5,
+      "name": "CCK01783 FRONT + REAR Powder",
+      "image": "b1.jpg",
+      "promotion": 7000000,
+      "price": 6500000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 5,
+      "view": 67,
+      "sold": 23,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 2,
+      "brandId": 5
+    },
+    {
+      "id": 6,
+      "name": "CCK01950 FRONT + REAR Powder",
+      "image": "b2.jpg",
+      "promotion": 34500000,
+      "price": 2600000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 3,
+      "view": 23,
+      "sold": 10,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 1,
+      "brandId": 6
+    },
+    {
+      "id": 7,
+      "name": "Detroit Axle – All (4) Front and Rear",
+      "image": "b3.jpg",
+      "price": 400000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 2,
+      "view": 23,
+      "sold": 10,
+      "amount": 50,
+      "createdAt": "2030-01-01",
+      "categoryId": 2,
+      "brandId": 7
+    },
+    {
+      "id": 8,
+      "name": "FRONT 274.5 mm Premium OE 5 Lug [2]",
+      "image": "b4.jpg",
+      "promotion": 234000000,
+      "price": 222000000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 4,
+      "view": 56,
+      "sold": 23,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 2,
+      "brandId": 8
+    },
+    {
+      "id": 9,
+      "name": "Lò xo cuộn AC Delco 45H2130,",
+      "image": "c1.jpg",
+      "promotion": 5600000,
+      "price": 4500000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 3,
+      "view": 23,
+      "sold": 78,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 3,
+      "brandId": 9
+    },
+    {
+      "id": 10,
+      "name": "KHỚP BÓNG FEBEST 0120",
+      "image": "c2.jpg",
+      "promotion": 3400000,
+      "price": 2300000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 5,
+      "view": 56,
+      "sold": 23,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 3,
+      "brandId": 10
+    },
+    {
+      "id": 11,
+      "name": "Ktaxon cho 2005-2010",
+      "image": "c3.jpg",
+      "promotion": 270000,
+      "price": 230000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 2,
+      "view": 54,
+      "sold": 23,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 3,
+      "brandId": 11
+    },
+    {
+      "id": 12,
+      "name": "Bộ dụng cụ nâng hệ thống treo ",
+      "image": "c4.jpg",
+      "promotion": 660000,
+      "price": 560000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 3,
+      "view": 56,
+      "sold": 23,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 3,
+      "brandId": 12
+    },
+    {
+      "id": 13,
+      "name": "Bộ động cơ 6 mảnh & động cơ",
+      "image": "d1.jpg",
+      "price": 2304000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 3,
+      "view": 78,
+      "sold": 35,
+      "amount": 49,
+      "createdAt": "2022-01-01",
+      "categoryId": 4,
+      "brandId": 13
+    },
+    {
+      "id": 14,
+      "name": "OCC Chopper CNC Mount",
+      "image": "d2.jpg",
+      "promotion": 3200000,
+      "price": 2900000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 4,
+      "view": 34,
+      "sold": 12,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 4,
+      "brandId": 14
+    },
+    {
+      "id": 15,
+      "name": "Trục cam và con lăn nâng (16)",
+      "image": "d3.jpg",
+      "promotion": 23000000,
+      "price": 22300000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 1,
+      "view": 34,
+      "sold": 23,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 4,
+      "brandId": 15
+    },
+    {
+      "id": 16,
+      "name": "Chevy 305 327 350 400 Ultimate Cam",
+      "image": "d4.jpg",
+      "price": 3400000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 4,
+      "view": 45,
+      "sold": 23,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 4,
+      "brandId": 16
+    },
+    {
+      "id": 17,
+      "name": "Dầu động cơ tổng hợp hoàn toàn",
+      "image": "e1.jpg",
+      "promotion": 320000,
+      "price": 290000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 5,
+      "view": 34,
+      "sold": 23,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 5,
+      "brandId": 1
+    },
+    {
+      "id": 18,
+      "name": "Dầu động cơ hỗn hợp tổng hợp",
+      "image": "e2.jpg",
+      "promotion": 500000,
+      "price": 450000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 3,
+      "view": 34,
+      "sold": 23,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 5,
+      "brandId": 2
+    },
+    {
+      "id": 19,
+      "name": "Dầu động cơ Castrol GTX",
+      "image": "e3.jpg",
+      "promotion": 970000,
+      "price": 900000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 4,
+      "view": 23,
+      "sold": 78,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 5,
+      "brandId": 3
+    },
+    {
+      "id": 20,
+      "name": "Mobil 1 0W-20 Dầu động cơ tổng hợp",
+      "image": "e4.jpg",
+      "promotion": 760000,
+      "price": 700000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 2,
+      "view": 67,
+      "sold": 45,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 5,
+      "brandId": 4
+    },
+    {
+      "id": 21,
+      "name": "Allstar Performance 16",
+      "image": "f1.jpg",
+      "promotion": 2300000,
+      "price": 2999000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 2,
+      "view": 67,
+      "sold": 45,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 6,
+      "brandId": 5
+    },
+    {
+      "id": 22,
+      "name": "Bộ phanh đĩa B&P Mfg cho tay cầm",
+      "image": "f2.jpg",
+      "price": 1500000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 3,
+      "view": 5,
+      "sold": 7,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 6,
+      "brandId": 6
+    },
+    {
+      "id": 23,
+      "name": "Bộ phanh B&P Mfg. (đĩa) cho tay",
+      "image": "f3.jpg",
+      "promotion": 1500000,
+      "price": 1240000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 4,
+      "view": 89,
+      "sold": 45,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 6,
+      "brandId": 7
+    },
+    {
+      "id": 24,
+      "name": "DISC của ATDNitto Neo Gen Tire 20540ZR18XL",
+      "image": "f4.jpg",
+      "promotion": 4300000,
+      "price": 3990000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 5,
+      "view": 36,
+      "sold": 65,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 6,
+      "brandId": 8
+    },
+    {
+      "id": 25,
+      "name": "ACDelco 45U0110 U-Joint",
+      "image": "g1.jpg",
+      "promotion": 1120000,
+      "price": 999000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 5,
+      "view": 76,
+      "sold": 43,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 7,
+      "brandId": 9
+    },
+    {
+      "id": 26,
+      "name": "Lắp ráp ổ trục trung tâm bánh xe",
+      "image": "g2.jpg",
+      "promotion": 940000,
+      "price": 899000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 4,
+      "view": 32,
+      "sold": 75,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 7,
+      "brandId": 10
+    },
+    {
+      "id": 27,
+      "name": "Lắp ráp ổ trục trung tâm bánh",
+      "image": "g3.jpg",
+      "price": 3490000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 3,
+      "view": 45,
+      "sold": 65,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 7,
+      "brandId": 11
+    },
+    {
+      "id": 28,
+      "name": "Lắp ráp ổ trục trung tâm bánh trước",
+      "image": "f4.jpg",
+      "promotion": 349000,
+      "price": 279000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 5,
+      "view": 36,
+      "sold": 65,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 7,
+      "brandId": 12
+    },
+    {
+      "id": 29,
+      "name": "2V 55Ah Power Boat Pontoon",
+      "image": "h1.jpg",
+      "promotion": 2300000,
+      "price": 2200000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 3,
+      "view": 87,
+      "sold": 33,
+      "amount": 49,
+      "createdAt": "2022-01-01",
+      "categoryId": 8,
+      "brandId": 13
+    },
+    {
+      "id": 30,
+      "name": "EverStart Maxx Ắc quy ô tô axit chì,",
+      "image": "h2.jpg",
+      "promotion": 800000,
+      "price": 750000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 2,
+      "view": 76,
+      "sold": 54,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 8,
+      "brandId": 14
+    },
+    {
+      "id": 31,
+      "name": "JUMP-N-CARRY 12V JUMP",
+      "image": "h3.jpg",
+      "promotion": 2400000,
+      "price": 2300000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 5,
+      "view": 76,
+      "sold": 54,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 8,
+      "brandId": 15
+    },
+    {
+      "id": 28,
+      "name": "Pin OPTIMA BlueTop Marine,",
+      "image": "h4.jpg",
+      "promotion": 530000,
+      "price": 490000,
+      "description": "Mô tả sản phẩm 1",
+      "rating": 1,
+      "view": 36,
+      "sold": 65,
+      "amount": 50,
+      "createdAt": "2022-01-01",
+      "categoryId": 8,
+      "brandId": 16
+    }
+  ],
+  "sliders": [
+    {
+      "id": 1,
+      "title": "Bảo hành",
+      "subtitle": "lên đến 5 năm",
+      "sale": 22,
+      "image": "slide_asset1.png",
+      "background": "slide_asset2-2.jpg",
+      "link": "shop.html",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "title": "Sẵn sàng",
+      "subtitle": "Cho mọi cuộc đua",
+      "sale": 18,
+      "image": "slide_asset4.png",
+      "background": "slide_asset3.jpg",
+      "link": "shop.html",
+      "order": 2,
+      "className": "slider-main-2"
+    },
+    {
+      "id": 3,
+      "title": "Mega sale",
+      "subtitle": "Đĩa & miếng đệm",
+      "sale": 33,
+      "image": "banner_slicer_img_3.png",
+      "background": "slide_asset4.jpg",
+      "link": "shop.html",
+      "order": 3,
+      "className": "slider-main-3"
+    },
+    {
+      "id": 4,
+      "title": "Quà tặng",
+      "sale": "Hấp dẫn",
+      "image": "banner_img_13.jpg",
+      "link": "shop.html",
+      "btn": "btn-3--bg-white"
+    },
+    {
+      "id": 5,
+      "title": "Thay phụ tùng",
+      "sale": "Miễn phí",
+      "image": "banner_img_1.jpg",
+      "link": "shop.html",
+      "btn": "custom-btn--bg-white",
+      "className": "slider-right-2"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Service Kits",
+      "image": "service-kits.png",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "Brake Discs & Pads",
+      "image": "brake-discs-pads.png",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Suspension",
+      "image": "suspension.png",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Engine Parts",
+      "image": "engine-parts.png",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Oil & Lubricants",
+      "image": "oil.png",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Tires & Wheels",
+      "image": "tires.png",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Steering",
+      "image": "steering.png",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Batteries",
+      "image": "batteries.png",
+      "order": 8
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "Mercedes Benz",
+      "image": "mercedes-benz.svg",
+      "order": 1
+    },
+    {
+      "id": 2,
+      "name": "BMW",
+      "image": "bmw.svg",
+      "order": 2
+    },
+    {
+      "id": 3,
+      "name": "Infinity",
+      "image": "infinity.svg",
+      "order": 3
+    },
+    {
+      "id": 4,
+      "name": "Audi",
+      "image": "audi.svg",
+      "order": 4
+    },
+    {
+      "id": 5,
+      "name": "Honda",
+      "image": "honda.svg",
+      "order": 5
+    },
+    {
+      "id": 6,
+      "name": "Volkswagen",
+      "image": "volkswagen.svg",
+      "order": 6
+    },
+    {
+      "id": 7,
+      "name": "Ford",
+      "image": "ford.svg",
+      "order": 7
+    },
+    {
+      "id": 8,
+      "name": "Mitsubishi",
+      "image": "mitsubishi.svg",
+      "order": 8
+    },
+    {
+      "id": 9,
+      "name": "Chevrolet",
+      "image": "chevrolet.svg",
+      "order": 9
+    },
+    {
+      "id": 10,
+      "name": "Subaru",
+      "image": "subaru.svg",
+      "order": 10
+    },
+    {
+      "id": 11,
+      "name": "Nissan",
+      "image": "nissan.svg",
+      "order": 11
+    },
+    {
+      "id": 12,
+      "name": "KIA",
+      "image": "kia.svg",
+      "order": 12
+    },
+    {
+      "id": 13,
+      "name": "Cadillac",
+      "image": "cadillac.svg",
+      "order": 13
+    },
+    {
+      "id": 14,
+      "name": "Toyota",
+      "image": "toyota.svg",
+      "order": 14
+    },
+    {
+      "id": 15,
+      "name": "Mazda",
+      "image": "mazda.svg",
+      "order": 15
+    },
+    {
+      "id": 16,
+      "name": "Lexus",
+      "image": "lexus.svg",
+      "order": 16
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "role": "user",
+      "avatar": "avatar.jpg",
+      "username": "quocan",
+      "password": "123456",
+      "email": "anvqps20351@fpt.edu.vn",
+      "createdAt": "2023-02-10T14:03:12.142Z"
+    },
+    {
+      "id": 2,
+      "role": "user",
+      "avatar": "avatar.jpg",
+      "username": "quocan1",
+      "password": "123456",
+      "email": "ducphuc99@gmail.com",
+      "createdAt": "2023-02-17T03:46:16.385Z"
+    },
+    {
+      "id": 3,
+      "role": "user",
+      "avatar": "avatar.jpg",
+      "username": "baho",
+      "password": "123456",
+      "email": "voquocan99@gmail.com",
+      "createdAt": "2023-02-17T04:39:34.960Z"
+    },
+    {
+      "id": 4,
+      "role": "user",
+      "avatar": "avatar.jpg",
+      "username": "quocan23",
+      "password": "123456",
+      "email": "abc99@gmail.com",
+      "createdAt": "2023-02-20T10:20:29.429Z"
+    }
+  ],
+  "orders": [
+    {
+      "createdAt": "2/24/2023, 11:17:39 AM",
+      "total": 5204000,
+      "status": "Đang xử lý",
+      "userId": 1,
+      "products": [
+        {
+          "id": 1,
+          "name": "Bộ lọc dầu bổ sung FRAM",
+          "image": "a1.jpg",
+          "price": 600000,
+          "description": "Mô tả sản phẩm 1",
+          "rating": 4,
+          "view": 100,
+          "sold": 27,
+          "amount": 46,
+          "createdAt": "2015-01-01",
+          "categoryId": 1,
+          "brandId": 1,
+          "quantity": 1,
+          "isChecked": true
+        },
+        {
+          "id": 29,
+          "name": "2V 55Ah Power Boat Pontoon",
+          "image": "h1.jpg",
+          "price": 2300000,
+          "promotion": 2200000,
+          "description": "Mô tả sản phẩm 1",
+          "rating": 3,
+          "view": 87,
+          "sold": 32,
+          "amount": 50,
+          "createdAt": "2022-01-01",
+          "categoryId": 8,
+          "brandId": 13,
+          "quantity": 1,
+          "isChecked": true
+        },
+        {
+          "id": 13,
+          "name": "Bộ động cơ 6 mảnh & động cơ",
+          "image": "d1.jpg",
+          "price": 2304000,
+          "description": "Mô tả sản phẩm 1",
+          "rating": 3,
+          "view": 78,
+          "sold": 34,
+          "amount": 50,
+          "createdAt": "2022-01-01",
+          "categoryId": 4,
+          "brandId": 13,
+          "quantity": 1,
+          "isChecked": true
+        }
+      ],
+      "info": {
+        "name": "Đình Hoàng",
+        "phone": "0786815693",
+        "address": "TP HCM",
+        "email": "hoangnd479@gmail.com",
+        "payment": "0"
+      },
+      "payment": "Thanh toán khi nhận hàng",
+      "id": 1
+    }
+  ]
+}
